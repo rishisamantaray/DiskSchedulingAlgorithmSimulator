@@ -1,2 +1,2 @@
 # DiskSchedulingAlgorithmSimulator
-HTML/Javascript
+HTML/Javascript/CSS
